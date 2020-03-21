@@ -6,7 +6,7 @@
   "author": "EGOIST <0x142857@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo lol",
+    "test": "yarn build",
     "build": "rm -rf dist && yarn webpack --mode production"
   },
   "devDependencies": {
