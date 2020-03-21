@@ -28,6 +28,8 @@ body {
 </script>
 ```
 
+[![Edit frosty-pike-uyhoj](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/frosty-pike-uyhoj?fontsize=14&hidenavigation=1&theme=dark)
+
 You can also use it with bundler:
 
 ```js
