@@ -1,11 +1,11 @@
-# tailwindcss-browser
+# tailwindcss-standalone
 
-> Use `tailwindcss` to compile CSS in browser directly. This is not intended for production use, however it can be used to demonstrate TailwindCSS features in browser.
+> Standalone build of `tailwindcss` that runs in browser.
 
 ## Usage
 
 ```html
-<script src="https://unpkg.com/tailwindcss-browser"></script>
+<script src="https://unpkg.com/tailwindcss-standalone"></script>
 
 <script>
   tailwindcss({
@@ -26,6 +26,12 @@ body {
       console.log(result.css);
     });
 </script>
+```
+
+You can also use it with bundler:
+
+```js
+import tailwindcss from 'tailwindcss-standalone'
 ```
 
 ## License
