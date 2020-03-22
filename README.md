@@ -1,5 +1,7 @@
 # tailwindcss-standalone
 
+[![unpkg size](https://badgen.net/badgesize/normal/https/unpkg.com/tailwindcss-standalone/dist/index.js)](https://unpkg.com/tailwindcss-standalone/) [![jsdelivr](https://badgen.net/jsdelivr/hits/npm/tailwindcss-standalone)](https://www.jsdelivr.com/package/npm/tailwindcss-standalone)
+
 > Standalone build of `tailwindcss` that runs in browser.
 
 ## Usage
